@@ -1,0 +1,4 @@
+interface:
+  display_name: "Physics lab writing style"
+  short_description: "Student voice and lecture-based physical reasoning"
+  default_prompt: "Use $physics-lab-report to revise my writing with a natural student voice, concise maths and clear physical reasoning grounded in lecture concepts."
