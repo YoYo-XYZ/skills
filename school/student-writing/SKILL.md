@@ -10,4 +10,4 @@ description: Write or revise essay using a natural undergraduate voice, concise 
 
 ## Reasoning and emphasis
 
-- Start from relevant lecture ideas and use them to explain what happened in the experiment. Make the connection through the idea relationship, not just a citation or concept name.
+- Start from relevant lecture ideas and use them for the explaination. Make the connection through the idea relationship, not just a citation or concept name

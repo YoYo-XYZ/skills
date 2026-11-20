@@ -1,10 +1,9 @@
 # Project Guidelines
 This workspace contains [report name].
 
-- [lab guideline file] is the source of truth for the lab information and content.
+- [report guideline file] is the source of truth for the lab information and content.
 - [grading criteria file] is the source of truth for the report guidelines and grading criteria.
-- [lab results] is the source of truth for the lab's experimental results
-- The end goal of this project is to complete the lab report for the assignment.
+- The end goal of this project is to complete the report for the assignment.
 
 # Writing Style and Narrative and Tone
 
@@ -16,4 +15,3 @@ This workspace contains [report name].
 ## Conventions
 - Keep the reports edits in the main Markdown file. Treat the supplied lecture slides [lecture slides name] as reference knowledge material
 - Support factual claims with identifiable sources. For lecture references, include the exact page number. Keep in-text citations consistent with the reference list.
-- Place all code and scripts used for the report in the `codes/` folder.
