@@ -9,9 +9,9 @@ General
 - **Reference content:** `[ref file]` is the main source for reference content, used as the main source of knowledge.
 - **Project goal:** Complete the assignment according to acheive high grading scores.
 
-Lab
+For lab report
 ---
-- **Lab results:**[lab results] is the source of truth for the lab's experimental results
+- **Lab results:** `[lab results]` is the source of truth for the lab's experimental results
 
 
 ## Writing Style and Narrative and Tone
@@ -24,7 +24,9 @@ General
 
 For personal essay
 ---
+- **Student perspective:** Write naturally in the first person as me, a second-year university student, reflecting on what I learned, how my thinking changed, and why it matters.
 - **Grounded in theory:** Connect personal reflections to relevant lecture concepts without forcing connections or merely restating theory.
+- **Critical and thoughtful:** Question assumptions, form my own conclusions, and explore deeper insights and real-world implications rather than simply repeating or agreeing with the reference content.
 
 For report
 ---
