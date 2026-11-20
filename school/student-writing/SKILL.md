@@ -1,6 +1,6 @@
 ---
 name: student-writing
-description: Write or revise essay using a natural undergraduate voice, concise explanations and reasoning grounded in lecture concepts.
+description: Write or revise essay using an undergraduate student voice.
 ---
 
 ## Voice

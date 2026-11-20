@@ -1,6 +1,6 @@
 ---
 name: unslop-writing
-description: Cut AI tells from any writing. Must always apply.
+description: Cut AI tells from writing an article.
 disable-model-invocation: true
 ---
 

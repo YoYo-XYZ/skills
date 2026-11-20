@@ -8,6 +8,7 @@ This workspace is for **[Assingment name]**.
 
 # Writing Style and Narrative and Tone
 
+- **Use `student-writing` skill**
 - **Student perspective:** Write naturally in the first person as me, a second-year university student, reflecting on what I learned, how my thinking changed, and why it matters.
 - **Critical and thoughtful:** Question assumptions, form my own conclusions, and explore deeper insights and real-world implications rather than simply repeating or agreeing with the reference content.
 - **Grounded in theory:** Connect personal reflections to relevant lecture concepts without forcing connections or merely restating theory.
