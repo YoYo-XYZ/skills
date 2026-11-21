@@ -4,6 +4,7 @@ This workspace is for **[Assingment name]**.
 
 General
 ---
+- **Speak like human:** school\unslop-writing\SKILL.md
 - **Assignment requirements:** `[requirement file]` is the single source of truth for assignment description.
 - **Assingment grading criteria** `[grading criteria file]` is the source of truth for the grading criteria.
 - **Reference content:** `[ref file]` is the main source for reference content, used as the main source of knowledge.
