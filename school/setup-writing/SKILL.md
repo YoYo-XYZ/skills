@@ -11,10 +11,10 @@ Read the brief and rubric for the assignment goal and requirements. Skim other r
 
 ## 2. Fill in the template
 
-Use the [writing setup template](TEMPLATE.md) beside this `SKILL.md` as the base for `AGENTS.md`.
+Use [TEMPLATE.md](TEMPLATE.md) beside this `SKILL.md` as the strict format for `AGENTS.md`.
 
 - Keep the template's headings, section order, labels, and default wording.
-- Fill in the placeholders with assignment details. List relevant resources with their purposes and repo-relative paths.
+- Fill in the placeholders with assignment details. List relevant resources with their purposes and repo-relative paths. Omit entries for resources the repo lacks.
 - Include only the assignment-specific sections that apply. Ask about the assignment type only if the answer would change the instructions.
 
 ## 3. Write `AGENTS.md`
@@ -25,5 +25,5 @@ Create or update `AGENTS.md` at the repo root.
 
 - Reorganize the file to match the template's layout.
 - Preserve existing project instructions unless they conflict with explicit assignment requirements.
-- Keep existing project preferences over template defaults.
+- Keep existing project preferences over template defaults and make the smallest necessary change to the template.
 - Ask about unresolved conflicts.

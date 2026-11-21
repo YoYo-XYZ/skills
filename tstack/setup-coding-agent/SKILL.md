@@ -14,7 +14,7 @@ Read the README and any project brief for the purpose, current state, and requir
 Use the [coding setup template](TEMPLATE.md) beside this `SKILL.md` as the base for `AGENTS.md`.
 
 - Keep the template's headings, section order, and default wording.
-- Fill in the project name, purpose, and current state. List key directories with repo-relative paths and their roles.
+- Fill in [] inside the .md
 - Under `Codebase Practice`, record project-specific rules and relevant setup, build, and test commands supported by the repo. Remove any placeholder that does not apply.
 
 ## 3. Write `AGENTS.md`
