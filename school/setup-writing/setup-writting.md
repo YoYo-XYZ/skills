@@ -2,7 +2,7 @@
 
 This workspace is for **[Assingment name]**.
 
-[project description]
+- **Project description:** [In one or two sentences, state the assignment topic or central question, what must be submitted, and what the work should cover.]
 - **Project goal:** Complete the assignment according to acheive high grading scores.
 
 ## Project Resources
@@ -35,5 +35,5 @@ This workspace is for **[Assingment name]**.
 
 ## Conventions
 
-- Make the essay edits in the main Markdown file, typically named main.md
-- Support factual claims with traceable sources. When citing lecture slides, specify the exact referenced filename and page number.
+- **Draft location:** Make essay edits in the main Markdown file, typically `main.md`.
+- **Citations:** Support factual claims with traceable sources. For lecture slides, cite the exact filename and page number.
