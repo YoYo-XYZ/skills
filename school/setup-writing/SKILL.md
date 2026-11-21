@@ -21,11 +21,8 @@ Use [TEMPLATE.md](TEMPLATE.md) beside this `SKILL.md` as the strict format for `
 
 ## 3. Write `AGENTS.md`
 
-Create or update `AGENTS.md` at the repo root.
+Create or update `AGENTS.md` at the repo root. Then, compare the draft with `TEMPLATE.md` and verify that every difference is a filled placeholder or an omitted `### If ...` subsection.
 
 ### When updating an existing file
 
-- Reorganize the file to match the template's layout.
-- Preserve existing project instructions unless they conflict with explicit assignment requirements.
-- Keep existing project preferences over template defaults and make the smallest necessary change to the template.
-- Ask about unresolved conflicts.
+Start from the template and carry over existing project details only where they fill a matching `[...]` placeholder.
