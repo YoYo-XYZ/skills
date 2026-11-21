@@ -11,21 +11,16 @@ Locate the submission and its grading criteria in the assignment repository. Inc
 
 ## Run three independent reviews
 
-Run three subagents in parallel, one GPT Luna, one GPT Terra, and one GPT Sol, each with high reasoning. In T3 Code, resolve the model IDs and reasoning option with `orchestrator_capabilities` before calling `delegate_task`. Report any unavailable model or setting.
-
-Fill in the repository and file paths once and send the exact same text below to each reviewer. Keep the model settings outside the prompt and collect all three reviews before reporting.
+Run three subagents in parallel, one GPT Luna, one GPT Terra, and one GPT Sol, each with high reasoning.Collect all three reviews before reporting.
 
 ## Shared reviewer prompt
 
 ```markdown
 Act as the teacher grading this assignment.
 
-- Repository: {repository path}
-- Submission: {submission paths}
-- Grading criteria: {rubric paths}
-- Assignment brief: {brief path, if available}
+- First, read any lecture slides in the project. Use them to establish what the course taught and what the teacher expects students to know.
 
-Grade the submission using the stated criteria and weights. Cite specific evidence for each criterion. Convert the rubric total to a score out of 10, or explain how you arrived at the score if the rubric gives no points. Keep the review read-only.
+- Grade the submission using the stated criteria and weights. Cite specific evidence for each criterion. Convert the rubric total to a score out of 10, or explain how you arrived at the score if the rubric gives no points. Keep the review read-only.
 
 ### Score
 
@@ -46,4 +41,7 @@ Use 1–2 sentences per recommendation. Name the concrete change and the criteri
 
 ## Report the grades
 
-Show each reviewer's score and rubric breakdown. Merge overlapping recommendations under P0 and P1, keeping each recommendation to 1–2 sentences. Flag disagreements that change the likely grade or revision priorities.
+Use only these Markdown sections, in order.
+
+- `### Scores`. Use one table row per reviewer with columns for reviewer, score out of 10, and rubric breakdown.
+- `### P0` and `### P1`. Combine overlapping recommendations. Use one bullet per change and name the rubric criterion it addresses in a single no fluff sentences.
