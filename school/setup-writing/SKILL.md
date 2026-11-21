@@ -7,15 +7,17 @@ description: Create or update AGENTS.md for an assignment-writing repo using its
 
 ## 1. Review the assignment
 
+Ask the user for the assignment type and wait for their answer before reviewing the repo.
+
 Read the brief and rubric for the assignment goal and requirements. Skim other repo resources only as needed to identify their purpose and location.
 
 ## 2. Fill in the template
 
 Use [TEMPLATE.md](TEMPLATE.md) beside this `SKILL.md` as the strict format for `AGENTS.md`.
 
-- Copy the template, including its headings, order, labels, and formatting.
-- Fill in the placeholders with assignment details. List relevant resources with their purposes and repo-relative paths. Omit entries for resources the repo lacks.
-- Include only the assignment-specific sections that apply. Ask about the assignment type only if the answer would change the instructions. Then delete the ## sections that do not apply.
+- Copy the template verbatim except for the two edits below.
+- Replace only `[...]` placeholders with assignment details. Use repo-relative paths for resources.
+- Omit each `### If ...` subsection that does not match the confirmed assignment type, including its heading and content.
 
 ## 3. Write `AGENTS.md`
 
