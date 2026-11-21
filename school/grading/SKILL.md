@@ -11,7 +11,7 @@ Locate the submission and its grading criteria in the assignment repository. Inc
 
 ## Run three independent reviews
 
-Run three subagents in parallel, one GPT Luna, one GPT Terra, and one GPT Sol, each with high reasoning.Collect all three reviews before reporting.
+Run three subagents in parallel, one GPT Luna, one GPT Terra, and one GPT Sol, each with "medium" reasoning. Collect all three reviews before reporting.
 
 ## Shared reviewer prompt
 
@@ -41,7 +41,7 @@ Use 1–2 sentences per recommendation. Name the concrete change and the criteri
 
 ## Report the grades
 
-Use only these Markdown sections, in order.
+Use only these Markdown sections, in order. Keep your report very concise, be direct, and avoid fluff
 
 - `### Scores`. Use one table row per reviewer with columns for reviewer, score out of 10, and rubric breakdown.
 - `### P0` and `### P1`. Combine overlapping recommendations. Use one bullet per change and name the rubric criterion it addresses in a single no fluff sentences.
