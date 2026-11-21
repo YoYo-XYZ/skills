@@ -12,7 +12,7 @@ This workspace is for **[Assingment name]**.
 - **Lecture slides Reference material:** Use lecture slides in `[lecture slides file]` as supplementary reference material.
 - **Reference material:** `[ref file]` is the main source for reference content, used as the main source of knowledge.
 
-### For lab reports
+### If lab reports add
 
 - **Lab results:** `[lab results]` is the source of truth for the lab's experimental results
 
@@ -23,13 +23,13 @@ This workspace is for **[Assingment name]**.
 - **Natural undergraduate writing:** Use simple vocabulary, straightforward grammar, and reasonably not too long sentences. Minor grammatical imperfections are acceptable. Avoid overly polished or sophisticated language.
 - **Clear and cohesive:** Keep ideas logically connected and easy to follow. Avoid repetition, generic statements.
 
-### For personal essays
+### If personal essays add
 
 - **Student perspective:** Write naturally in the first person as me, a second-year university student, reflecting on what I learned, how my thinking changed, and why it matters.
 - **Grounded in theory:** Connect personal reflections to relevant lecture concepts without forcing connections or merely restating theory.
 - **Critical and thoughtful:** Question assumptions, form my own conclusions, and explore deeper insights and real-world implications rather than simply repeating or agreeing with the reference content.
 
-### For reports, including lab reports
+### If reports, including lab reports add
 
 - **Grounded in theory:** Connect the report to relevant concepts from `[lecture slides name]`.
 
