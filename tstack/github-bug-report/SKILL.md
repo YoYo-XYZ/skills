@@ -4,6 +4,7 @@ description: Draft or revise GitHub bug reports for open-source projects.
 ---
 
 # GitHub bug reports
+use github cli
 
 ## Gather input
 

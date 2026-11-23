@@ -4,6 +4,7 @@ description: Draft or revise GitHub issues proposing new features or enhancement
 ---
 
 # GitHub feature requests
+use github cli
 
 ## Gather input
 
@@ -15,4 +16,4 @@ When accessible, follow the project's template and contribution guidelines. Chec
 
 ## Draft the issue
 
-Return a title and Markdown body or the project's issue form fields. Explain the problem and proposed behavior. Include an example or alternatives when helpful. Publish only on explicit request.
+Return a title and Markdown body or the project's issue form fields. Explain the problem and proposed behavior. Include an example, images, or alternatives when helpful. Publish only on explicit request.
