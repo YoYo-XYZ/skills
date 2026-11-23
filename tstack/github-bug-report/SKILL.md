@@ -5,7 +5,7 @@ description: Draft or revise GitHub bug reports for open-source projects.
 
 # GitHub bug reports
 - use github cli
-- To include an image when creating a GitHub issue, run `gh issue create --title "Issue title" --body "Issue description" --attach "path/to/image.png"`
+- To include an image when creating a GitHub issue, use --attach
 
 ## Gather input
 
